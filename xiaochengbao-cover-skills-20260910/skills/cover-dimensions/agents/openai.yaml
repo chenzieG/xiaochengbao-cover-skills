@@ -1,0 +1,4 @@
+interface:
+  display_name: "BaseEdge 封面多尺寸规范"
+  short_description: "统一六尺寸封面设计、编辑器适配与导出验收"
+  default_prompt: "Use $cover-dimensions to build, debug, or verify a complete BaseEdge six-size cover project."

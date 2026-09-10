@@ -1,0 +1,7 @@
+interface:
+  display_name: "基地边缘人物封面多尺寸重构"
+  short_description: "学习单人、双人肖像与互动场景，重构并质检六种标准封面尺寸"
+  default_prompt: "Use $baseedge-responsive-cover-layout to analyze this approved BaseEdge cover and rebuild all six platform sizes."
+
+policy:
+  allow_implicit_invocation: true

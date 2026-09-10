@@ -1,0 +1,4 @@
+interface:
+  display_name: "BaseEdge 封面制作"
+  short_description: "重新生成或新建并审计六种 BaseEdge 封面"
+  default_prompt: "Use $baseedge-cover-production to regenerate an approved BaseEdge cover as six newly composed variants without source-image collage."

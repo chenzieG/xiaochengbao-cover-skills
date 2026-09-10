@@ -1,0 +1,130 @@
+{
+  "source": "Installed cover skills",
+  "transformations": [
+    "Replaced private Feishu document URL and chat ID with placeholders",
+    "Excluded historical .bak files"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 77,
+      "sha256": "0ddab8a3f880bd5e0a4b1af909b394cfac877a23d17694ccc7f58e58bcbc91ea"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 592,
+      "sha256": "956a7820f9b2d6ecfda7ce9a11d05ef1136607b4a835853fa7c97251f01a8f3a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4720,
+      "sha256": "f47061ef7cc0c786fc660f8bb79d13366f0404a99037459ad3fe7641e46db40e"
+    },
+    {
+      "path": "docs/compatibility.md",
+      "bytes": 2295,
+      "sha256": "1868dbdca4bda7a0133cde97da0be1336c29ae9dd5d15d88c7c9aa78a9e3f7ea"
+    },
+    {
+      "path": "skills/baseedge-cover-production/SKILL.md",
+      "bytes": 15497,
+      "sha256": "3986453c0c07d624258a05524a8261cd6127cc59598ec99dd518696843c7b9a4"
+    },
+    {
+      "path": "skills/baseedge-cover-production/agents/openai.yaml",
+      "bytes": 280,
+      "sha256": "ff31b85981b05da568abcd56c7e4e7647db39fde12ee2d4442b2a9bcf53c5fb5"
+    },
+    {
+      "path": "skills/baseedge-cover-production/assets/baseedge-logo-black.png",
+      "bytes": 6362,
+      "sha256": "9a7d00091f9b58aefc90559979422d3c50f441a8bace04b662016794209592de"
+    },
+    {
+      "path": "skills/baseedge-cover-production/assets/baseedge-logo-white.png",
+      "bytes": 7212,
+      "sha256": "a3ce62faf6e1771a4319088ccb35d7be67a01205dd6bc61c7f3f2928df3e7bc3"
+    },
+    {
+      "path": "skills/baseedge-cover-production/references/cover-spec.md",
+      "bytes": 32700,
+      "sha256": "01535a8091e154eb7cf573516816a27cdcbb1fb4b718bde91efdd7e7a8242d55"
+    },
+    {
+      "path": "skills/baseedge-cover-production/scripts/audit_exports.ps1",
+      "bytes": 2805,
+      "sha256": "87af98d04f27b8514d7d69436202727a078501dcf97278d648bbb3533d96d108"
+    },
+    {
+      "path": "skills/baseedge-cover-production/scripts/restore_protected_pixels.py",
+      "bytes": 2867,
+      "sha256": "0e399ebd67fe3c88da76844ed3634c550f701a6ed0dbfff3bc61ff86e87a70cb"
+    },
+    {
+      "path": "skills/baseedge-human-cover-layout/SKILL.md",
+      "bytes": 7220,
+      "sha256": "368d1cd74b0174b3752159b9d4ee0fee55061c8285b9bbfcaabb3c149a5d8a75"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/SKILL.md",
+      "bytes": 4228,
+      "sha256": "a52fe265e1c82ff763a4473ac690c9b3e693ba84582a4a90ddcad9e3b92cabaa"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/agents/openai.yaml",
+      "bytes": 354,
+      "sha256": "58e8b1b101f1e46527c3bcd709a975ea8ddb8744563e8ed15e86c8a8c8b96323"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/references/qa-checklist.md",
+      "bytes": 1102,
+      "sha256": "629682f19f02ea13d94b0cb3dcb67878110490472b5b6b38693fa489c4c55a82"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/references/single-person.md",
+      "bytes": 499,
+      "sha256": "72c707b8d5626d3858abb7b0884c41f7775a389b0f7d77a77e00430294d46377"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/references/single-product.md",
+      "bytes": 3680,
+      "sha256": "3bf4565a457b4f27c37b73ebe3d892f6853bc814171b02f160fa2f159f93f12b"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/references/two-person-interaction.md",
+      "bytes": 592,
+      "sha256": "95999f9cb8cbb746e68f0050c2b3b893912f0a9a298a0961ec718a47e689af65"
+    },
+    {
+      "path": "skills/baseedge-responsive-cover-layout/references/two-person-portrait.md",
+      "bytes": 693,
+      "sha256": "d4de7c5c30aad41a7b52fa660b11f5186f143d66aefa4d4a1dbf06a7219d62b9"
+    },
+    {
+      "path": "skills/cover-dimensions/SKILL.md",
+      "bytes": 13134,
+      "sha256": "281c33362f5f38cfe6898b8b470c62e1bff4449e9b9a515f7c7c9a43be3d5590"
+    },
+    {
+      "path": "skills/cover-dimensions/agents/openai.yaml",
+      "bytes": 257,
+      "sha256": "d8b13978c0bbe47061fa3d089ce5576fa4c51299cfcc28fabde94c16becd2d35"
+    },
+    {
+      "path": "skills/cover-dimensions/references/cover-rules.md",
+      "bytes": 15119,
+      "sha256": "32f518d61566aa9f68ae239a4c343820dfa6a4abf69ec55d59da5e3b88a0dd1b"
+    },
+    {
+      "path": "skills/cover-dimensions/references/cover-workflow-lessons-20260910.md",
+      "bytes": 10174,
+      "sha256": "fd6a361653355e3db5c6e4504f6e6212276d8f1e68c33fe7f289f799d74bd723"
+    },
+    {
+      "path": "skills/cover-dimensions/references/editor-engineering.md",
+      "bytes": 4620,
+      "sha256": "6359070fb87314f1ba1a3f2e8c4e80379f70dd2dd80fc7a70ae1e543b1910736"
+    }
+  ],
+  "snapshot": "2026-09-10"
+}
